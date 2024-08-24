@@ -1,2 +1,1 @@
-# ponderada_regras_de_negocio
- 
+Conteudo no DOCS e nas imagens, cada imagem começa de cima para baixo, sendo a parte de cima a entrada, meio ação e baixo fim.
